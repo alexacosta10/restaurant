@@ -1,0 +1,11 @@
+/* styles.css */
+* {
+  box-sizing: border-box;
+}
+#content {
+  background-color: lightslategray;
+  text-align: center;
+}
+h1 {
+  font-size: 64px;
+}
